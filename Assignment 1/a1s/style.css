@@ -1,0 +1,46 @@
+html{
+	background-color:darkgoldenrod;
+}
+div{
+	background-color: gray;
+}
+p{
+	text-align: left;
+}
+.one{
+	margin-left: 50px;
+	background-color: darkgray;
+}
+.two{
+	margin-left: 100px;
+	background-color: gray;
+}
+.three{
+	margin-left: 150px;
+	background-color: darkgray;
+}
+.four{
+	margin-left: 200px;
+	background-color: gray;
+}
+.five{
+	margin-left: 250px;
+	background-color: darkgray;
+}
+.formp{
+	text-align: center;
+}
+form{
+	background-color: lightgoldenrodyellow;
+	border-width: 5px;
+	text-align: center;	
+	width:100%;
+}
+
+h1{
+	font-size:40pt;
+	text-align:center;
+	width:90%;
+	background-color:lightgoldenrodyellow;
+	
+}
